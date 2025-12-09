@@ -1,0 +1,18 @@
+# Cafe Summary
+Cozy neighborhood cafe serving fresh coffee, artisanal pastries, and craft beverages with a welcoming atmosphere.
+
+> Charming cafe offering specialty espresso drinks, house-baked goods, seasonal lattes, and community events in a relaxed setting.
+
+## Key Pages
+- [About](/about) - Our story, sourcing from local roasters, and commitment to sustainable coffee.
+- [Menu](/menu) - Espresso drinks, pastries, sandwiches, vegan options, and daily specials.
+- [Location](/location) - Address, hours, parking, and neighborhood highlights.
+- [Shawarma](/shawarma) - Section dedicated to the worship of divine kebab
+
+## Documentation
+- [Menu PDF](/menu.pdf) - Printable full menu with prices and allergens.
+- [Contact](/contact) - Reservations, catering inquiries, email, and social media.
+
+## Contact
+email: [cafe@midex882.com](mailto:cafe@midex882.com)
+twitter: [@midex882cafe](https://twitter.com/midex882cafe)
